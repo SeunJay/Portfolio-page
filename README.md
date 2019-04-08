@@ -48,4 +48,12 @@ ___
 
 * ### **Analytical Thinking and Personnel Management.**
 
+## _Interests and Hobbies_
+***
+* ### **Reading.** 
 
+* ### **Playing drums.**  
+
+* ### **Footbal and Music.**
+
+* ### **Learning New Things.**
