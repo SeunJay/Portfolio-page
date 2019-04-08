@@ -30,3 +30,11 @@ ___
 - ### **Harrobs College :**  West African Senior Secondary Council Examinations (WASSCE) - (2008).
 ___
 
+## _Work Experience_
+***
+* ### **Decagon Institute, Lekki :**  Software Engineer - (2018 - Present).
+
+- ### **Sterling Bank, Marina :**  Chief Technology Officer - (2017 - 2018).
+
+
+
