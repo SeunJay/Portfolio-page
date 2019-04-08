@@ -36,5 +36,16 @@ ___
 
 - ### **Sterling Bank, Marina :**  Chief Technology Officer - (2017 - 2018).
 
+## _Skills_
+***
+* ### **Full Stack Web Developer :**  HTML, CSS, Javascript, jQuery, Node, React, MongoDB etc...
+
+* ### **Digital Marketing :** Googleadwords, SEO
+
+* ### **Detail Oriented and Problem Solving Skills.**
+
+* ### **Good Verbal And Written Communication Skills.**
+
+* ### **Analytical Thinking and Personnel Management.**
 
 
