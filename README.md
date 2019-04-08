@@ -21,3 +21,12 @@ ___
 > An aspiring global tech entreprenuer with focus on nation building both locally and internationally.
 
 ---
+
+## _Education And Qualifications_
+
+---
+* ### **University Of Ibadan, Oyo :**  B.Sc Statitics (First class) - (2011 - 2015).
+
+- ### **Harrobs College :**  West African Senior Secondary Council Examinations (WASSCE) - (2008).
+___
+
